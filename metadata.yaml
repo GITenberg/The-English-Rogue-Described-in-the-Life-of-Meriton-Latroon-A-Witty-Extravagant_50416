@@ -1,10 +1,16 @@
 _repo: The-English-Rogue-Described-in-the-Life-of-Meriton-Latroon-A-Witty-Extravagant_50416
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50416-h/images/cover.jpg
 creator:
   author:
     agent_name: Kirkman, Francis
     gutenberg_agent_id: '45887'
     url: http://www.gutenberg.org/2009/agents/45887
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50416#The-English-Rogue-Described-in-the-Life-of-Meriton-Latroon-A-Witty-Extravagant
 gutenberg_issued: '2015-11-09'
 gutenberg_type: Text
 identifiers:
